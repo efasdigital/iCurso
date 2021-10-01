@@ -12,15 +12,6 @@ Criar um aplicativo com pelo menos 2 páginas. Um diferencial é criar com login
 ## Instalação
 
 - Clone o repositório com `git clone`
-- Veja `.env.example` para exemplos das variáveis de ambiente.
-- Se utiliza yarn:
-
-```
-yarn install
-yarn start
-```
-
-- Se utiliza npm:
 
 ```
 npm install
